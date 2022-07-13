@@ -7,5 +7,6 @@
 - smpt library inbuilt , datetime library inbuilt , subprocess library inbuilt 
 ## Alterations 
 - In your keylogger.py file just set your credentials in the field of (mail,pass,client)
-- And you can use [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to convert the py file to exe and make it use
-- Consider giving a star to this repo and if you have any further recommendations you can proceed 
+- And you can use [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to convert the py file to exe and make it use 
+## Help
+- Consider giving a star to this repo and if you have any further recommendations you can proceed
